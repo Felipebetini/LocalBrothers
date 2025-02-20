@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* custom classes */
+.special-button {
+  @apply px-4 py-2 rounded-lg bg-blue-500 text-white;
+}
+
+body {
+  scroll-behavior: smooth;
+}
